@@ -146,7 +146,7 @@ void app_main(void)
     // i2c_driver_delete(I2C_MASTER_NUM);
 
 
-    //xTaskCreate(mpu6050_complimentory_filter_func,"mpu6050_complimentory_filter_func",2048,NULL,1,NULL);
+    xTaskCreate(mpu6050_complimentory_filter_func,"mpu6050_complimentory_filter_func",2048,NULL,1,NULL);
 
     xTaskCreate(LCD_fill_tset,"LCD_fill_tset",2048,NULL,1,NULL);
 }
