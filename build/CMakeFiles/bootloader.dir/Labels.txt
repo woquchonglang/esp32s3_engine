@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/yjy/Documents/engine/esp_project/mpu6050/build/CMakeFiles/bootloader
+/home/yjy/Documents/engine/esp_project/mpu6050/build/CMakeFiles/bootloader.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/CMakeFiles/bootloader-complete.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/yjy/Documents/engine/esp_project/mpu6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,34 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "stdio.h": "c",
+    "unity.h": "c",
+    "esp_system.h": "c",
+    "i2c.h": "c",
+    "mpu6050_drv.h": "c",
+    "math.h": "c",
+    "time.h": "c",
+    "_ansi.h": "c",
+    "esp_log.h": "c",
+    "i2c_master.h": "c",
+    "esp_rom_gpio.h": "c",
+    "gpio.h": "c",
+    "esp_lcd_panel_interface.h": "c",
+    "esp_lcd_panel_io.h": "c",
+    "esp_heap_caps.h": "c",
+    "spi_master.h": "c",
+    "task.h": "c",
+    "semphr.h": "c",
+    "nv3030b.h": "c",
+    "nv3030b_sof_drv.h": "c",
+    "freertos.h": "c",
+    "stdint.h": "c",
+    "gpio_types.h": "c"
+  },
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.port": "/dev/ttyACM0",
+  "idf.flashType": "UART"
+}
